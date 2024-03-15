@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/copy-svgrepo-com.svg</file>
+        <file>img/tick-svgrepo-com.svg</file>
+        <file>img/The-Cat.ico</file>
+    </qresource>
+</RCC>
